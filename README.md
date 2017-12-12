@@ -9,7 +9,10 @@ leaving a group of Missionaries in one place outnumbered by the Cannibals in
 that place.
 
 ## Usage
-
+Run mc.py
+```
+python mc.py
+```
 ## Dependencies
 * <a href="https://www.python.org/downloads/release/python-360/">Python 3.6</a>
 
